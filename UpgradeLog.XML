@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="UTI_word">
+</Property><Property Name="Solution File" Value="F:\myDocuments\it-livan\My Documents\projects\UTI_word\UTI_word.sln">
+</Property><Property Name="User Options File" Value="F:\myDocuments\it-livan\My Documents\projects\UTI_word\UTI_word.suo">
+</Property><Property Name="Date" Value="Monday, May 09, 2011">
+</Property><Property Name="Time" Value="10:32 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="UTI_word.sln" Description="File successfully backed up as F:\myDocuments\it-livan\My Documents\projects\UTI_word\Backup\UTI_word.sln">
+</Event><Event ErrorLevel="0" Project="" Source="UTI_word.suo" Description="File successfully backed up as F:\myDocuments\it-livan\My Documents\projects\UTI_word\Backup\UTI_word.suo">
+</Event><Event ErrorLevel="0" Project="UTI_word" Source="UTI_word.vbproj" Description="Project file successfully backed up as F:\myDocuments\it-livan\My Documents\projects\UTI_word\Backup\UTI_word.vbproj">
+</Event><Event ErrorLevel="0" Project="UTI_word" Source="UTI_word.vbproj.user" Description="Project user file successfully backed up as F:\myDocuments\it-livan\My Documents\projects\UTI_word\Backup\UTI_word.vbproj.user">
+</Event><Event ErrorLevel="0" Project="UTI_word" Source="clsUtiWord.vb" Description="File successfully backed up as F:\myDocuments\it-livan\My Documents\projects\UTI_word\Backup\clsUtiWord.vb">
+</Event><Event ErrorLevel="0" Project="UTI_word" Source="My Project\AssemblyInfo.vb" Description="File successfully backed up as F:\myDocuments\it-livan\My Documents\projects\UTI_word\Backup\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="UTI_word" Source="My Project\Application.Designer.vb" Description="File successfully backed up as F:\myDocuments\it-livan\My Documents\projects\UTI_word\Backup\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="UTI_word" Source="My Project\Resources.Designer.vb" Description="File successfully backed up as F:\myDocuments\it-livan\My Documents\projects\UTI_word\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="UTI_word" Source="My Project\Settings.Designer.vb" Description="File successfully backed up as F:\myDocuments\it-livan\My Documents\projects\UTI_word\Backup\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="UTI_word" Source="My Project\Application.myapp" Description="File successfully backed up as F:\myDocuments\it-livan\My Documents\projects\UTI_word\Backup\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="UTI_word" Source="My Project\Settings.settings" Description="File successfully backed up as F:\myDocuments\it-livan\My Documents\projects\UTI_word\Backup\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="UTI_word" Source="My Project\Resources.resx" Description="File successfully backed up as F:\myDocuments\it-livan\My Documents\projects\UTI_word\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="UTI_word" Source="UTI_word.vbproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="UTI_word" Source="UTI_word.vbproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="UTI_word.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="UTI_word.sln" Description="Converted">
+</Event></UpgradeLog>
