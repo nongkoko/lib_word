@@ -93,9 +93,7 @@
     <Import Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="clsMathInString.vb" />
     <Compile Include="clsMenitJamHari.vb" />
-    <Compile Include="clsTerbilang.vb" />
     <Compile Include="clsUtiWord.vb" />
     <Compile Include="extensionModule.vb" />
     <Compile Include="GlobalSuppressions.vb" />

@@ -6,14 +6,8 @@
     <Nullable>enable</Nullable>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Title>pengolah string</Title>
+    <Version>1.0.1</Version>
   </PropertyGroup>
-
-  <ItemGroup>
-    <Compile Remove="clsEnkripsi.cs" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Content Include="clsEnkripsi.cs" />
-  </ItemGroup>
+  
 
 </Project>
